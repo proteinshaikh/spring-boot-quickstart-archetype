@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.spring-boot-archetypes</groupId>
-    <artifactId>spring-boot-quickstart-web</artifactId>
+    <artifactId>spring-boot-web-quickstart</artifactId>
     <version>1.0.0</version>
     <packaging>maven-archetype</packaging>
 
